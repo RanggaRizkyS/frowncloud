@@ -295,6 +295,7 @@ body.dark .switch::before{
 .home .text{
     font-size: 10px;
     color: var(--text-color);
+    white-space: nowrap;
     padding: 12px 60px;
 }
 
