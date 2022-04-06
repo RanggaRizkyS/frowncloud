@@ -126,3 +126,8 @@
 .pricing-button.is-featured:active {
   background-color: #269aff;
 }
+
+.header-text {
+	text-align: center;
+	letter-spacing: 1px;
+}
